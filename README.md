@@ -1,4 +1,4 @@
-    DATA EXPLORATION WITH SQL
+    #DATA EXPLORATION WITH SQL#
 
 In this project, I analyze a movie data set using SQL on GoogleBigquery where I explore the dataset to get various insights. I used SQL to sort, filter, and aggregate the data set while I used Excel for visualization.
 
