@@ -1,4 +1,4 @@
-    #DATA EXPLORATION WITH SQL#
+    # DATA EXPLORATION WITH SQL
 
 In this project, I analyze a movie data set using SQL on GoogleBigquery where I explore the dataset to get various insights. I used SQL to sort, filter, and aggregate the data set while I used Excel for visualization.
 
@@ -15,4 +15,8 @@ The goal of the project is to identify different patterns in movies genre releas
  After getting insights into the above questions, I created a dashboard using Excel to visualize my findings.
 
 DATASET used was gotten on Kaggle.
+*list 1
+*list 2
+*list 3
+*list 4
 
