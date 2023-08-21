@@ -90,5 +90,3 @@ GROUP BY director
 ORDER BY movie_count DESC
 LIMIT 50
 
-SELECT * 
-FROM movies_set.explore_movie
