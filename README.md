@@ -6,11 +6,11 @@ GOAL OF THE PROJECT:
 
 The goal of the project is to identify different patterns in movies genre released by year and analyze each movies genre according to the revenue generated, budget, and the number of movies released according to genre. The questions aimed to be answered are:
 
-. Which movie genre has the most movies?
-. Which movie genre generated the most revenue?
-. Which year is the most movie released?
-. Which movie director has the highest number of movie direct?
-. Which movie genre has the most budget?
+Which movie genre has the most movies?
+Which movie genre generated the most revenue?
+Which year is the most movie released?
+Which movie director has the highest number of movie direct?
+Which movie genre has the most budget?
 
  After getting insights into the above questions, I created a dashboard using Excel to visualize my findings.
 
