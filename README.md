@@ -17,7 +17,19 @@ The goal of the project is to identify different patterns in movie genres releas
 
    INSIGHTS
 
-   1.
+   1. The action genre is the genre with the highest number of movies
+   2. The top 5 movie genres are, Action, Comedy, Drama, Horror, and Sci-Fi
+   3. The movie genre with the most budget and revenue is the Action genre
+   4. The documentary genre has the lowest number of movies released which is 1
+   5. 2015 is the year the highest number of movies was released, with a total of 124 movies
+
+
+   RECOMMENDATION
+
+   1. More money should be invested in the production of documentary genre movies
+   2. The budget for action genre movies should not be reduced, because it's the genre with most revenue
+   3. More documentary genre movies should be produced to bring in more revenue
+
 
 DATASET used was gotten on Kaggle.
 
